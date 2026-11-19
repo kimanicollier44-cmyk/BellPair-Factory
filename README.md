@@ -1,4 +1,4 @@
-![BellPair-Factory cover](assets/cover.png)
+![BellPair-Factory cover](BellPair-Factory%20cover.png)
 
 # BellPair-Factory 🏭⚛️
 
